@@ -2,7 +2,7 @@
 Image segmentation method based on the fast marching method
 
 MANUSCRIPT NAME
-Jordan Hoffmann, Seth Donoughe, Kathy Li, Mary Salcedo, L. Mahadevan, Chris H. Rycroft
+Jordan Hoffmann, Seth Donoughe, Kathy Li, Mary Salcedo, Chris H. Rycroft
 ***************************************************************
 Wing Segmentation and Circularity Optimization Code
 Code Written By Jordan Hoffmann, Seth Donoughe, Kathy Li
