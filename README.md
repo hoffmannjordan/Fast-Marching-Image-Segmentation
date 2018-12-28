@@ -75,6 +75,7 @@ However, by modifying my tool, I was able to create extremely accurate segmentat
 By initializing each hole with 4 different seeds, I performed a level set segmentation up until some maximum time, $T$. Then, using a lookup table, I reassambled the space belonging to each hole.
 Then, for hole $i$, I assemble a list of all coordinates belonging to that hole, $\vec{x}_i = ((x_1,y_1),(x_2,y_2),...,(x_n,y_n))$. Then, for this list, I perform K-means clustering with 4 seeds. This method allows me to track an object that splits while still calling it a single object.
 ![disks](./ims/disks.png)
-Here is a video of the process:
+Here is a video of the process [click on image]:
+
 [![Video](https://img.youtube.com/vi/ptUvsK35qg8/0.jpg)](https://www.youtube.com/watch?v=ptUvsK35qg8)
 
