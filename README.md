@@ -1,9 +1,9 @@
 # Fast-Marching-Image-Segmentation
 Image segmentation method based on the fast marching method
 
-Code Written By Jordan Hoffmann
+## Code Written By Jordan Hoffmann
 ===============================================================
-
+Feel free to email me with any questions (log in to GitHub to see email). 
 
 
 Contents
